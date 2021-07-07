@@ -30,7 +30,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rack-test", "~> 1.1"
   spec.add_development_dependency "rake"
   spec.add_development_dependency "rspec", "~> 3.0"
-  spec.add_development_dependency "rubocop", "~> 0.51"
+  spec.add_development_dependency "rubocop", "~> 1.18"
   spec.add_development_dependency "rubocop-rspec", "~> 1.20"
   spec.add_development_dependency "timecop", "~> 0.9"
 end
